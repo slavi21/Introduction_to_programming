@@ -155,7 +155,7 @@ int main()
         std::cout<<"The array has repeating elements \n ";
     }
 
-    //7) 
+    // Втори начин
 
     i = 0;
     j = 1;
@@ -177,9 +177,6 @@ int main()
     std::cout << "The array has repeating elements\n";
     }
 
-    
-
-
 
 
     arrayExamples();
@@ -187,4 +184,4 @@ int main()
     return 0;
 
 }
-
+    
